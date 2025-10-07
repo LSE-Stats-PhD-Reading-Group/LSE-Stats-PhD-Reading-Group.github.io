@@ -7,22 +7,19 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 07-02-2025 | Pietro Maria Sparago | probability | [Small-time functional limit theorems for Itô diffusion processes](talks/07-02-2025-Pietro-Maria-Sparago.html) |
-| 19-02-2025 | Xuewen Yu | data science | [A Hierarchical Bayesian Structural Time Series model for inferring causal impact of policy implantation on mental health](talks/19-02-2025-Xuewen-Yu.html) |
-| 05-03-2025 | Hongyi Zhou | data science | [Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation](talks/05-03-2025-Hongyi-Zhou.html) |
-| 19-03-2025 | Motonori Oka | social statistics | [Stochastic optimisation on high-dimensional latent variable models](talks/19-03-2025-Motonori-Oka.html) |
-
+| 09-10-2025 | Xinyang Yu | time series | [Permutation test in dependent data](talks/09-10-2025-Xinyang-Yu.html) |
 
 ### Previous Talks
-
-* [Michaelmas Term 2021](past_terms/MT-2021.html)
-* [Lent Term 2022](past_terms/LT-2022.html)
-* [Michaelmas Term 2022](past_terms/MT-2022.html)
-* [Lent Term 2023](past_terms/LT-2023.html)
-* [Autumn Term 2023](past_terms/AT-2023.html)
-* [Winter Term 2024](past_terms/WT-2024.html)
-* [Autumn Term 2024](past_terms/AT-2024.html)
+* [Autumn Term 2026](past_terms/AT-2025_2026.html)
 * [Winter Term 2025](past_terms/WT-2024_2025.html)
+* [Autumn Term 2024](past_terms/AT-2024.html)
+* [Winter Term 2024](past_terms/WT-2024.html)
+* [Autumn Term 2023](past_terms/AT-2023.html)
+* [Lent Term 2023](past_terms/LT-2023.html)
+* [Michaelmas Term 2022](past_terms/MT-2022.html)
+* [Lent Term 2022](past_terms/LT-2022.html)
+* [Michaelmas Term 2021](past_terms/MT-2021.html)
+
 
 ### Advice for speakers
 
