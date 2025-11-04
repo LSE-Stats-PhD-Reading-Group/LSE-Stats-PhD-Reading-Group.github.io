@@ -9,6 +9,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 |---|---|---|---|
 | 09-10-2025 | Xinyang Yu | time series | [Permutation test in dependent data](talks/09-10-2025-Xinyang-Yu.html) |
 | 24-10-2025 | Feichen Gan | data science | [Conformal Prediction Beyond the Horizon: Distribution-Free Inference for Policy Evaluation](../talks/24-10-2025-Feichen-Gan.html) |
+| 06-11-2025 | Pouya Roudaki | social statistics | [A Dependence Measure: Integrated R^2 and its kernelized extension](../talks/06-11-2025-Pouya-Roudaki.html) |
 
 ### Previous Talks
 * [Autumn Term 2026](past_terms/AT-2025_2026.html)
