@@ -7,12 +7,10 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 09-10-2025 | Xinyang Yu | time series | [Permutation test in dependent data](talks/09-10-2025-Xinyang-Yu.html) |
-| 24-10-2025 | Feichen Gan | data science | [Conformal Prediction Beyond the Horizon: Distribution-Free Inference for Policy Evaluation](../talks/24-10-2025-Feichen-Gan.html) |
-| 06-11-2025 | Pouya Roudaki | social statistics | [A Dependence Measure: Integrated R^2 and its kernelized extension](../talks/06-11-2025-Pouya-Roudaki.html) |
-| 28-11-2025 | Alexandros Pavlis | probability | [A Dynamic Competitive Equilibrium Model of Irreversible Capacity Investment with Stochastic Demand and Heterogeneous Producers](../talks/28-11-2025-Alexandros-Pavlis.html) |
+| 18-02-2026 | Kai Ye | data science | [Permutation test in dependent data](../talks/18-02-2026-Kai-Ye.html) |
 
 ### Previous Talks
+* [Winter Term 2026](past_terms/WT-2025_2026.html)
 * [Autumn Term 2026](past_terms/AT-2025_2026.html)
 * [Winter Term 2025](past_terms/WT-2024_2025.html)
 * [Autumn Term 2024](past_terms/AT-2024.html)
