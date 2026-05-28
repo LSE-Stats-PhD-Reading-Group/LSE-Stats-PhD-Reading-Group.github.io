@@ -7,7 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 04-03-2026 | Han Yan | time series | [Deep Independent Component Analysis for Time Series with Invertible Neural Networks](../talks/04-03-2026-Han-Yan.html) |
+| 05-06-2026 | Han Yan | time series | [Text as Priors](../talks/05-06-2026-Wen-Su.html) |
 
 ### Previous Talks
 * [Winter Term 2026](past_terms/WT-2025_2026.html)
