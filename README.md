@@ -7,7 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 05-06-2026 | Han Yan | time series | [Text as Priors](../talks/05-06-2026-Wen-Su.html) |
+| 05-06-2026 | Wen Su | oxford | [Text as Priors](../talks/05-06-2026-Wen-Su.html) |
 
 ### Previous Talks
 * [Winter Term 2026](past_terms/WT-2025_2026.html)
