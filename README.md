@@ -7,7 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 08-10-2026 | Yuqing Xie | social | [LLM Benchmarking via Representation Multi-task Learning](../talks/08-10-2026-Yuqing-Xie.html) |
+| 08-10-2026 | Yuqing Xie | social statistics | [LLM Benchmarking via Representation Multi-task Learning](../talks/08-10-2026-Yuqing-Xie.html) |
 
 
 ### Previous Talks
