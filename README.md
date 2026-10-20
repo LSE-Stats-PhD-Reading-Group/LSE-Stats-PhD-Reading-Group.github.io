@@ -8,6 +8,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 08-10-2026 | Yuqing Xie | social statistics | [LLM Benchmarking via Representation Multi-task Learning](../talks/08-10-2026-Yuqing-Xie.html) |
+| 08-10-2026 | Yuqing Xie | data science | [Gradient Surgery for Physics-Informed Neural Networks](../talks/21-10-2026-Thomas-Borsani.html) |
 
 
 ### Previous Talks
